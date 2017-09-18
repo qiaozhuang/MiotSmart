@@ -1,0 +1,41 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.miot.android.robot.host"
+        minSdkVersion 9
+        targetSdkVersion 22
+        versionCode 65793
+        versionName "1.1.1"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    sourceSets { main { aidl.srcDirs = ['src/main/aidl', 'src/main/aidl/2'] } }
+}
+
+sourceSets {
+    main {
+        java.srcDirs = ['src/main/java', 'src/main/aidl']
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'com.google.code.gson:gson:2.2.4'
+    compile 'io.reactivex:rxjava:1.0.14'
+    compile 'io.reactivex:rxandroid:1.0.1'
+    compile project(':dbmanager-utils')
+    compile project(':miotsmart-lib')
+    compile files('libs/boxmanager_3.0.jar')
+    compile project(':downloadmanager')
+    compile files('libs/ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar')
+}

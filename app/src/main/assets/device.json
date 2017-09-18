@@ -1,0 +1,408 @@
+{
+  "SenceModelList": [
+    {
+      "model": "回家模式",
+      "code": "SS_0001_00"
+    },
+    {
+      "model": "离家模式",
+      "code": "SS_0002_00"
+    }
+  ],
+  "DeviceCtrlList": [
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "窗帘",
+      "dev_class_type": "curtain",
+      "operation": "打开",
+      "parameter": "null",
+      "value": "null",
+      "code": "SA_01021_ON"
+    }
+  ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "窗帘",
+      "dev_class_type": "curtain",
+      "operation": "关闭",
+      "parameter": "null",
+      "value": "null",
+      "code": "SA_01022_ON"
+    }
+  ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "窗帘",
+      "dev_class_type": "curtain",
+      "operation": "停止",
+      "parameter": "null",
+      "value": "null",
+      "code": "SA_01023_ON"
+    }
+  ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "窗纱",
+      "dev_class_type": "curtain",
+      "operation": "打开",
+      "parameter": "null",
+      "value": "null",
+      "code": "SA_01024_ON"
+    }
+  ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "窗纱",
+      "dev_class_type": "curtain",
+      "operation": "关闭",
+      "parameter": "null",
+      "value": "null",
+      "code": "SA_01025_ON"
+    }
+  ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "窗纱",
+      "dev_class_type": "curtain",
+      "operation": "停止",
+      "parameter": "null",
+      "value": "null",
+      "code": "SA_01026_ON"
+    }
+
+  ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空气净化器",
+      "dev_class_type": "socket",
+      "operation": "打开",
+      "parameter": "null",
+      "value": "null",
+      "code": "SA_01028_ON"
+    }
+  ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空气净化器",
+      "dev_class_type": "fresh_air_system",
+      "operation": "关闭",
+      "parameter": "null",
+      "value": "null",
+      "code": "SA_01029_ON"
+    }
+  ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "打开",
+      "parameter": "null",
+      "value": "null",
+      "code": "SA_030000_ON"
+    }
+  ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "关闭",
+      "parameter": "null",
+      "value": "null",
+      "code": "SA_030001_ON"
+    }
+  ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "温度调节",
+      "parameter": "null",
+      "value": "16",
+      "code": "SA_030002_ON"
+    }
+  ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "温度调节",
+      "parameter": "null",
+      "value": "17",
+      "code": "SA_030003_ON"
+    }
+  ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "温度调节",
+      "parameter": "null",
+      "value": "18",
+      "code": "SA_030004_ON"
+    }
+  ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "温度调节",
+      "parameter": "null",
+      "value": "19",
+      "code": "SA_030005_ON"
+    } ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "温度调节",
+      "parameter": "null",
+      "value": "20",
+      "code": "SA_030006_ON"
+    } ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "温度调节",
+      "parameter": "null",
+      "value": "21",
+      "code": "SA_030007_ON"
+    } ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "温度调节",
+      "parameter": "null",
+      "value": "22",
+      "code": "SA_030008_ON"
+    } ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "温度调节",
+      "parameter": "null",
+      "value": "23",
+      "code": "SA_030009_ON"
+    } ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "温度调节",
+      "parameter": "null",
+      "value": "24",
+      "code": "SA_030010_ON"
+    } ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "温度调节",
+      "parameter": "null",
+      "value": "25",
+      "code": "SA_030011_ON"
+    } ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "温度调节",
+      "parameter": "null",
+      "value": "26",
+      "code": "SA_030012_ON"
+    } ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "温度调节",
+      "parameter": "null",
+      "value": "27",
+      "code": "SA_030013_ON"
+    } ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "温度调节",
+      "parameter": "null",
+      "value": "28",
+      "code": "SA_030014_ON"
+    } ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "温度调节",
+      "parameter": "null",
+      "value": "29",
+      "code": "SA_030015_ON"
+    } ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "温度调节",
+      "parameter": "null",
+      "value": "30",
+      "code": "SA_030016_ON"
+    } ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "制冷",
+      "parameter": "null",
+      "value": "",
+      "code": "SA_030017_ON"
+    } ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "制热",
+      "parameter": "null",
+      "value": "null",
+      "code": "SA_030018_ON"
+    } ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "除湿",
+      "parameter": "null",
+      "value": "null",
+      "code": "SA_030019_ON"
+    }
+  ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "自动",
+      "parameter": "null",
+      "value": "null",
+      "code": "SA_030020_ON"
+    }
+  ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "高风速",
+      "parameter": "null",
+      "value": "null",
+      "code": "SA_030021_ON"
+    }
+  ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "中风速",
+      "parameter": "null",
+      "value": "null",
+      "code": "SA_030022_ON"
+    }
+  ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "低风速",
+      "parameter": "null",
+      "value": "null",
+      "code": "SA_030023_ON"
+    }
+  ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "睡眠",
+      "parameter": "null",
+      "value": "null",
+      "code": "SA_030024_ON"
+    }
+  ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "自动模式",
+      "parameter": "null",
+      "value": "null",
+      "code": "SA_030025_ON"
+    }
+  ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "制冷",
+      "parameter": "null",
+      "value": "null",
+      "code": "SA_030026_ON"
+    }
+  ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "制热",
+      "parameter": "null",
+      "value": "null",
+      "code": "SA_030027_ON"
+    }
+  ,
+    {
+      "floor_name": "一楼",
+      "room_name": "展厅",
+      "device_name": "空调",
+      "dev_class_type": "aircondition",
+      "operation": "除湿",
+      "parameter": "null",
+      "value": "null",
+      "code": "SA_030028_ON"
+    }
+
+	]
+}

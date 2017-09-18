@@ -1,0 +1,1 @@
+include ':app', ':dbmanager-utils', ':miotsmart-lib', ':downloadmanager', ':MiotVoiceRobot'

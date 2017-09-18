@@ -1,0 +1,325 @@
+{
+  "DeviceCtrlListValue": [
+    {
+      "type":"0",
+      "name":"窗帘",
+      "action": "打开",
+      "Mac": "00:0E:A3:BD:8B:A2",
+      "value": "F1 F1 02 01 64 67 7E",
+      "code": "SA_01021_ON"
+    }
+  ,
+    {
+      "type":"0",
+      "name":"窗帘",
+      "action": "关闭",
+      "Mac": "00:0E:A3:BD:8B:A2",
+      "value": "F1 F1 02 01 00 03 7E",
+      "code": "SA_01022_ON"
+    }
+  ,
+    {
+      "type":"0",
+      "name":"窗帘",
+      "action": "停止",
+      "Mac": "00:0E:A3:BD:8B:A2",
+      "value": "F1 F1 03 01 00 04 7E",
+      "code": "SA_01023_ON"
+    }
+  ,
+    {
+      "type":"0",
+      "name":"窗纱",
+      "Mac": "00:0E:A3:BD:8F:FF",
+      "value": "F1 F1 02 01 64 67 7E",
+      "action": "打开",
+      "code": "SA_01024_ON"
+    }
+  ,
+    {
+      "type":"0",
+      "name":"窗纱",
+      "action": "关闭",
+      "Mac": "00:0E:A3:BD:8F:FF",
+      "value": "F1 F1 02 01 00 03 7E",
+      "code": "SA_01025_ON"
+    }
+  ,
+    {
+      "type":"0",
+      "name":"窗纱",
+      "Mac": "00:0E:A3:BD:8F:FF",
+      "value": "F1 F1 03 01 00 04 7E",
+      "action": "停止",
+      "code": "SA_01026_ON"
+    }
+  ,
+    {
+      "type":"0",
+      "name":"福兆朗风空气净化器",
+      "Mac": "00:0E:A3:BC:10:AE",
+      "value": "F1F1020C01000000000000000A000000197E",
+      "action": "开机",
+      "code": "SA_01028_ON"
+    }
+  ,
+    {
+      "type":"0",
+      "name":"福兆朗风空气净化器",
+      "Mac": "00:0E:A3:BC:10:AE",
+      "action": "关机",
+      "value": "F1F1020C02000000000000000A0000001A7E",
+      "code": "SA_01029_ON"
+    }
+
+  ,
+    {
+      "type":"0",
+      "name":"空调",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "value": "AA020001000100CDC055",
+      "action": "开机",
+      "code": "SA_030000_ON"
+    }
+  ,
+    {
+      "type":"0",
+      "name":"空调",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "value": "AA 02 00 01 00 00 00 0C 00 55",
+      "action": "关机",
+      "code": "SA_030001_ON"
+    }
+  ,
+    {
+      "type":"1",
+      "name":"空调",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "action": "温度调节",
+      "value": "16",
+      "code": "SA_030002_ON"
+    } ,
+    {
+      "type":"1",
+      "name":"空调",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "action": "温度调节",
+      "value": "17",
+      "code": "SA_030003_ON"
+    } ,
+    {
+      "type":"1",
+      "name":"空调",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "action": "温度调节",
+      "value": "18",
+      "code": "SA_030004_ON"
+    } ,
+    {
+      "type":"1",
+      "name":"空调",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "action": "温度调节",
+      "value": "19",
+      "code": "SA_030005_ON"
+    },
+    {
+      "type":"1",
+      "name":"空调",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "action": "温度调节",
+      "value": "20",
+      "code": "SA_030006_ON"
+    }
+
+  ,
+    {
+      "type":"1",
+      "name":"空调",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "action": "温度调节",
+      "value": "21",
+      "code": "SA_030007_ON"
+    }
+  ,
+    {
+      "type":"1",
+      "name":"空调",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "action": "温度调节",
+      "value": "22",
+      "code": "SA_030008_ON"
+    }
+  ,
+    {
+      "type":"1",
+      "name":"空调",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "action": "温度调节",
+      "value": "23",
+      "code": "SA_030009_ON"
+    }
+  ,
+    {
+      "type":"1",
+      "name":"空调",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "action": "温度调节",
+      "value": "24",
+      "code": "SA_030010_ON"
+    }
+  ,
+    {
+      "type":"1",
+      "name":"空调",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "action": "温度调节",
+      "value": "25",
+      "code": "SA_030011_ON"
+    }
+  ,
+    {
+      "type":"1",
+      "name":"空调",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "action": "温度调节",
+      "value": "26",
+      "code": "SA_030012_ON"
+    }
+  ,
+    {
+      "type":"1",
+      "name":"空调",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "action": "温度调节",
+      "value": "27",
+      "code": "SA_030013_ON"
+    }
+  ,
+    {
+      "type":"1",
+      "name":"空调",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "action": "温度调节",
+      "value": "28",
+      "code": "SA_030014_ON"
+    }
+  ,
+    {
+      "type":"1",
+      "name":"空调",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "action": "温度调节",
+      "value": "29",
+      "code": "SA_030015_ON"
+    }
+  ,
+    {
+      "type":"1",
+      "name":"空调",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "action": "温度调节",
+      "value": "30",
+      "code": "SA_030016_ON"
+    }
+
+,
+    {
+      "type":"0",
+      "name":"空调",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "action": "自动",
+      "value":"AA 02 00 04 00 02 00 1C 01 55",
+      "code": "SA_030020_ON"
+    }
+  ,
+    {
+      "type":"0",
+      "name":"空调",
+      "action": "高风速",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "value": "AA 02 00 04 00 01 00 DD C1 55",
+      "code": "SA_030021_ON"
+    }
+  ,
+    {
+      "type":"0",
+      "name":"空调",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "action": "中风速",
+      "value": "AA 02 00 04 00 02 00 9D C0 55",
+      "code": "SA_030022_ON"
+    }
+  ,
+    {
+      "type":"0",
+      "name":"空调",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "action": "低风速",
+      "value": "AA 02 00 04 00 03 00 5C 00 55",
+      "code": "SA_030023_ON"
+    }
+  ,
+    {
+      "type":"0",
+      "name":"空调",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "action": "睡眠",
+      "value": "AA 02 00 04 00 04 00 1D C2 55",
+      "code": "SA_030024_ON"
+    }
+  ,
+    {
+      "type":"0",
+      "name": "空调",
+      "action": "自动模式",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "value": "AA 02 00 08 00 00 00 DC 02 55",
+      "code": "SA_030025_ON"
+    }
+  ,
+    {
+      "type":"0",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "name": "空调",
+      "action": "制冷",
+      "value": "AA 02 00 08 00 01 00 1D C2 55",
+      "code": "SA_030026_ON"
+    }
+  ,
+    {
+      "type":"0",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "name": "空调",
+      "action": "制热",
+      "value": "AA 02 00 08 00 04 00 DD C1 55",
+      "code": "SA_030027_ON"
+    }
+  ,
+    {
+      "type":"0",
+      "Mac": "00:0E:A3:BD:3B:EC",
+      "name": "空调",
+      "action": "除湿",
+      "value": "AA 02 00 08 00 02 00 5D C3 55",
+      "code": "SA_030028_ON"
+    },
+    {
+      "type":"3",
+      "Mac": "",
+      "name": "回家模式",
+      "action": "开启 空调 窗帘",
+      "value": "SA_01021_ON&SA_030000_ON&SA_01024_ON",
+      "code": "SS_0001_00"
+    }
+  ,
+    {
+      "type":"3",
+      "Mac": "",
+      "name": "离家模式",
+      "action": "开启 空调 窗帘",
+      "value": "SA_01022_ON&SA_030001_ON&SA_01025_ON",
+      "code": "SS_0002_00"
+    }
+	]
+}
